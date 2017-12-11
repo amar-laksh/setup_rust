@@ -2,17 +2,13 @@
 
 ## Requirements
 
-`
+``
 sudo apt-get install vim
-
 sudo apt-get install curl
-
 sudo apt-get install git
-
 sudo apt-get install build-essential cmake
-
 sudo apt-get install python-dev python3-dev
-`
+``
 
 ## Installation
 `
